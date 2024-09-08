@@ -6,4 +6,6 @@
 
 - :orange_book: Focusing on Swift & iOS/Python/MachineLearning
 - :hammer: Creator of applications and frameworks
+If you have projects to develop, welcome to contact me directly
+email: zhaoxinqiang328@gmail.com
 
